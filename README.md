@@ -43,29 +43,26 @@ The Channel F uses 9 pins for each controller. 1 for ground, and 8 floating pins
 
 
 
-## Final Design
-
-Here's what it looks like all hooked up. Note that I used a Super Famicom extension cable, as I didn't want to cut the cable from an actual controller, both because I don't want to destroy vintage hardware (even though the one shown here isn't genuine), and because I still want it to work with my Super Famicom.
-
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/44975876/155824955-c53ec618-6945-407d-a260-39e31d272157.png" width="70%" />
-</p>
-
-#### Controller Mapping
+## Controller Mapping
 
 I settled on mapping the 4 extra buttons in a way that allows NES / Famicom controllers to be connected too. Of course one could also use these extra buttons to perform more interesting actions. But for now it works just fine.
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/44975876/155825954-c452f0a9-9d56-4220-9133-b11cf6e98665.png" align="center" width="70%" />
-</p>
-
-#### Simplified Schematic
-
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/44975876/155824940-060902e1-a47f-4259-8df9-422b6ea0517a.png" width="70%" />
+    <img src="https://user-images.githubusercontent.com/44975876/155828164-dbdc2ab8-5b65-4bcd-abc6-e1fd5aa4944f.png" align="center" width="70%" />
 </p>
 
 
+
+## Final Design
+
+Here's what it looks like all hooked up, along with a simplified schematic. Note that I used a Super Famicom extension cable, as I didn't want to cut the cable from an actual controller, both because I don't want to destroy vintage hardware (even though the one shown here isn't genuine), and because I still want it to work with my Super Famicom.
+
+<img src="https://user-images.githubusercontent.com/44975876/155824940-060902e1-a47f-4259-8df9-422b6ea0517a.png" width="48%" align="right" />
+<img src="https://user-images.githubusercontent.com/44975876/155824955-c53ec618-6945-407d-a260-39e31d272157.png" width="48%" align="left" />
+
+&nbsp;
+
+&nbsp;
 
 # Useful Links / Sources
 
