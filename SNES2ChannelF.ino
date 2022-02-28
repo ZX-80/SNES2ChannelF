@@ -89,7 +89,7 @@ void getControllerData(void){
     delayMicroseconds(6);
     
     // Retrieve button states from shift register
-    for(int i = 0; i < 16; i++){
+    for(uint8_t i = 0; i < 16; i++){
         digitalWrite(SNES_CLOCK, LOW);
         delayMicroseconds(6);
         bitWrite(SNESButtonStates, i, digitalRead(SNES_DATA));
